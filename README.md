@@ -1,8 +1,6 @@
 # NerdSheet
 A super customizable character sheet for Dnd that includes a dice roller and automatic level ups
 
-Im using MatthewGallant's PyDB:
-https://github.com/MatthewGallant/PyDB
 
 TO DO:
 Dice roller
