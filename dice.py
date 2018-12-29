@@ -1,3 +1,5 @@
+# Dice Rolling Class
+
 import random
 
 class dice:
