@@ -5,8 +5,6 @@ Using MatthewGallant's pyDB
 
 TO DO:
 
-Dice roller
-
 Ability Scores
 
 Character creator
