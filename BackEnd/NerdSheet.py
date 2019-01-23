@@ -1,5 +1,5 @@
 # Made by Lucien Hammond
-# Using 
+# Using Matt Galants PyDB
 
 import sys, time, random, os
 from dice import dice
